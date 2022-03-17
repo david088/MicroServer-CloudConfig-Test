@@ -1,9 +1,9 @@
 spring:
   application:
-    name: movie-store
+    name: user-server
 
 server:
   port: 0
 
 user:
-  role: ADMIN
+  username: ADMIN
